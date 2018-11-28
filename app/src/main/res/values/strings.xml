@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cakes</string>
+    <string name="button_catalog">Готовые изделия</string>
+    <string name="button_construct">Конструктор</string>
+</resources>
